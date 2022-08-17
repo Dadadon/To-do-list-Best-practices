@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dadadon/To-Do-List.git"
+    "url": "git+https://github.com/Dadadon/To-do-list-Best-practices.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dadadon/To-Do-List/issues"
+    "url": "https://github.com/Dadadon/To-Do-List-Best-practices/issues"
   },
-  "homepage": "https://dadadon.github.io/To-Do-List",
+  "homepage": "https://dadadon.github.io/To-do-list-Best-practices",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
